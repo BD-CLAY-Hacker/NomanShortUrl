@@ -6,12 +6,25 @@ Short Any Url Using NomanShortUrl🔥 Mask Your Phishing Link 😷 🥳
 #Commands
 
  pkg up -y
+
+
  pkg install python -y
+
+
  pkg install git -y
+
+
  git clone https://github.com/BD-CLAY-Hacker/NomanShortUrl
+
+
  cd NomanShortUrl
+
+
  bash setup.py
+
+
  # Run Command :-
+
  # ShortUrl
 
  #Thanks For Using My Tool Create By : Afran Noman 
