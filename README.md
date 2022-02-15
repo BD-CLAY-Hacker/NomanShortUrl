@@ -25,7 +25,7 @@ Short Any Url Using NomanShortUrl🔥 Mask Your Phishing Link 😷 🥳
 
  # Run Command :-
 
- # ShortUrl
+ # shorturl
 
  #Thanks For Using My Tool Create By : Afran Noman 
 # FB ID Link..⬇️⬇️⤵️
