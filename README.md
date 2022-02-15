@@ -20,12 +20,12 @@ Short Any Url Using NomanShortUrl🔥 Mask Your Phishing Link 😷 🥳
  cd NomanShortUrl
 
 
- bash setup.py
+ bash setup.sh
 
 
  # Run Command :-
 
- # shorturl
+ # ShortUrl
 
  #Thanks For Using My Tool Create By : Afran Noman 
 # FB ID Link..⬇️⬇️⤵️
