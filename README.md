@@ -5,6 +5,7 @@ Short Any Url Using NomanShortUrl🔥 Mask Your Phishing Link 😷 🥳
 
 #Commands
 
+```
  pkg up -y
 
 
@@ -21,15 +22,17 @@ Short Any Url Using NomanShortUrl🔥 Mask Your Phishing Link 😷 🥳
 
 
  bash setup.sh
-
+```
 
  # Run Command :-
 
- # ShortUrl
-
+```
+ShortUrl
+```
  #Thanks For Using My Tool Create By : Afran Noman 
 # FB ID Link..⬇️⬇️⤵️
-# https://www.facebook.com/afran.noman.CEO
+```
+ https://www.facebook.com/afran.noman.CEO
 
-
+```
 # ByE 😊🥰😍😘🤩🔥🔥🔥😎
